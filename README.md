@@ -1,6 +1,6 @@
 # Chat
 
-[![Build status](https://ci.appveyor.com/api/projects/status/aon878vqde410log?svg=true)](https://ci.appveyor.com/project/Anna-Edel/chat-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/bwn9rchgiaad610h?svg=true)](https://ci.appveyor.com/project/Anna-Edel/chat-frontend)
 
 ## Сервер:
 
